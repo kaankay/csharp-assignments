@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "aNY6VQEsYMOd3SnFbnZJ9CwLZnHp5/nhanZcAmiX1pN71pfZNrI9krR5E8Du7lPtuDIwTlY87WjUhNbRsEePXA==",
+  "success": true,
+  "projectFilePath": "C:\\Programmierung\\4\\UbungsblattVier\\UbungsblattVier.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kaan\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\kaan\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\kaan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\kaan\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

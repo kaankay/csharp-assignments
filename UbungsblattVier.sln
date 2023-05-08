@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UbungsblattVier", "UbungsblattVier\UbungsblattVier.csproj", "{C0CC0553-28CF-45B4-B6A7-072BFE6745F1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C0CC0553-28CF-45B4-B6A7-072BFE6745F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0CC0553-28CF-45B4-B6A7-072BFE6745F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0CC0553-28CF-45B4-B6A7-072BFE6745F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0CC0553-28CF-45B4-B6A7-072BFE6745F1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B3796E1-9C41-48FC-844C-1AA3DE07973D}
+	EndGlobalSection
+EndGlobal
